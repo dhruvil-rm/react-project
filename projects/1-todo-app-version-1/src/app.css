@@ -1,0 +1,20 @@
+.todo h1 {
+  font-weight: 900;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+
+.todo input {
+  width: 100%;
+}
+
+.RR-button {
+  min-width: 100px;
+  padding: 5px 10px;
+}
+
+.RR-row {
+  margin: 10px 5px;
+  text-align: left;
+}

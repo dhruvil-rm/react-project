@@ -1,0 +1,13 @@
+.RR-item {
+  background-color: khaki;
+}
+
+.RR-span {
+  font-weight: 500;
+  color: orange;
+}
+
+.button {
+  background-color: orange;
+  float: right;
+}
